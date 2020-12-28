@@ -3,6 +3,9 @@ Advanced Interactive Security Workshop (AISW) is set of instructions that can be
 
 All heading is linked to Microsoft docs if you want to learn more about specific feature or to find How-to guide or Tutorial on Microsoft docs.
 
+Since I’m maintaining this document alone, errors and inaccuracies can happen. If you detect inaccuracy or you would like see specific feature in AISW or you have any other feedback, please submit your response on this form:
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__rvUg1ZURE5ZOEVIQjkxVFc2RzY4S0RGRU9SSURGOC4u 
+
 Advanced Interactive Security Workshop will include following scenarios:
 1.	Identity protection
 2.	Device and app management

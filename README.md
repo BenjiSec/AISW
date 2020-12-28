@@ -6,7 +6,7 @@ All headings are linked to Microsoft docs if you want to learn more about specif
 Since I’m maintaining this document alone, errors and inaccuracies can happen. If you detect inaccuracy or you would like see specific feature in AISW or you have any other feedback, please submit your response on this form:
 https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__rvUg1ZURE5ZOEVIQjkxVFc2RzY4S0RGRU9SSURGOC4u 
 
-I will be publishing new version every 3 months which will include fixes of inaccuracies, new features, and/or extended configuration/testing for already included feature. I’ll give my best to document all changes between versions.
+I will be publishing new version every 3 months which will include fixes of the inaccuracies, new features, and/or extended configuration/testing for already included feature. I’ll give my best to document all changes between the versions.
 
 Advanced Interactive Security Workshop includes following pillars:
 1.	Identity protection

@@ -1,7 +1,7 @@
 # AISW
 Advanced Interactive Security Workshop (AISW) is set of instructions that can be used for hands-on learning of Microsoft 365 Security and Compliance stack. For AISW it is recommended to open M365 E5 trial subscription (contact your Microsoft representative if help needed), add 20 test users, and preconfigure tenant with configuration below. For each feature in this document, I have had provided step-by-step instructions how the feature is enabled, as well as description how to test the feature and how to tune it more for your needs.
 
-All heading is linked to Microsoft docs if you want to learn more about specific feature or to find How-to guide or Tutorial on Microsoft docs.
+All headings are linked to Microsoft docs if you want to learn more about specific feature or to find How-to guide or Tutorial on Microsoft docs.
 
 Since I’m maintaining this document alone, errors and inaccuracies can happen. If you detect inaccuracy or you would like see specific feature in AISW or you have any other feedback, please submit your response on this form:
 https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__rvUg1ZURE5ZOEVIQjkxVFc2RzY4S0RGRU9SSURGOC4u 

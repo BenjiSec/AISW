@@ -1,5 +1,7 @@
 # AISW
-Advanced Interactive Security Workshop (AISW) is set of instructions that can be used for hands-on learning. In AISW we open M365 E5 trial subscription, add 20 test users, and preconfigure tenant with configuration below. For each step, you will have description how to test feature and how to tune it more for their need, as well as step-by-step description how feature is enabled.
+Advanced Interactive Security Workshop (AISW) is set of instructions that can be used for hands-on learning of Microsoft 365 Security and Compliance stack. For AISW it is recommended to open M365 E5 trial subscription (contact your Microsoft representative if help needed), add 20 test users, and preconfigure tenant with configuration below. For each feature in this document, I have had provided step-by-step instructions how the feature is enabled, as well as description how to test the feature and how to tune it more for your needs.
+
+All heading is linked to Microsoft docs if you want to learn more about specific feature or to find How-to guide or Tutorial on Microsoft docs.
 
 Advanced Interactive Security Workshop will include following scenarios:
 1.	Identity protection
@@ -22,12 +24,12 @@ INFORMATION PROTECTION
 2.	Enable Unified Labeling (including support for Teams, OneDrive and SharePoint Online)
 
 THREAT PROTECTION
-1.	Configure Microsoft Defender for Office 365 (Safe Links, Safe Attachments) for EXO, SPO, and Teams – execute Attack Simulator; fine tune policies using Configuration Analyzor
-2.	Configure MD for Endpoint (enable all integrations and advance features, enable web content filtering, MCAS integration) plus do Evaluation labs and testing scenarios
+1.	Configure Microsoft Defender for Office 365 (Safe Links, Safe Attachments) for EXO, SPO, and Teams – execute Attack Simulator; fine tune policies using Configuration Analyzer
+2.	Configure MD for Endpoint (enable all integrations and advance features, web content filtering, MCAS integration) plus do Evaluation labs and testing scenarios
 3.	Configure MCAS (make demo report, integration with AIP, MD for Endpoint, enable policies, admin quarantine, Configure Conditional Access App Control with AAD CA)
 4.	What is Microsoft 365 Defender and how it can help
 5.	How to use Secure Score
-Note: Microsoft Defender for Identity is not included in this workshop – but there is Security lab for Microsoft Defender for Identity. Instructions for the same you can find in the MD for Identity segment of the document.
+Note: Microsoft Defender for Identity is not included in this workshop – but there is Security lab for Microsoft Defender for Identity available on Microsoft docs. Instructions for the same you can find in the MD for Identity segment of the document.
 
 COMPLIANCE IN MICROSOFT 365
 1.	Compliance Manager and Compliance Score
@@ -37,7 +39,7 @@ COMPLIANCE IN MICROSOFT 365
 
 IMPORTANT NOTE
 1.	Purpose of this document is to provide learning material about Microsoft Security solutions from Microsoft 365
-2.	It is recommended to use Trial tenant and that all devices and documents aren’t connected to production environment in any way
+2.	It is recommended to use Trial tenant and that all devices and documents aren’t connected to production environment in any way. If you are using your production tenant and environment, you are doing it on your own risk! Some of configuration CAN and WILL impact live environment!
 3.	This document doesn’t state official Microsoft recommended configuration steps! This document cannot be used as set of instructions how to configure production tenant; it’s made for testing purposes only. Because Microsoft must respond to changing market conditions, this should not be interpreted to be a commitment on the part of Microsoft, and Microsoft cannot guarantee the accuracy of any information provided after the date of this document.
 4.	Microsoft recommended configuration/best practices can be found only on official Microsoft Docs
 5.	Microsoft and/or Microsoft employees cannot be held responsible for any issues on customer environment/s while preforming Advanced Interactive Security Workshop.
